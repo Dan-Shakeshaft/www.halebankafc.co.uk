@@ -1,0 +1,66 @@
+body {
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+.hero {
+    text-align: center;
+    border: 1px solid silver;
+    padding: 20px;
+}
+
+.hero h1 {
+    font-size: 4.2rem;;
+}
+
+.hero h2 { 
+    font-size: 3rem;;
+}
+
+.navigation {
+    background-color : #000;
+}
+
+.navigation ul {
+    list-style: none;
+    margin: 0;
+    padding: 15px;
+}
+
+.navigation ul li {
+    display: inline;
+    color: #fff;
+    padding: 20px;
+}
+
+.current-season {
+    text-align: center;
+    border: 1px solid silver;
+    padding: 20px;
+}
+
+.current-season a.button.button-primary {
+    background-color: #A03B26;
+    border-color: #A03B26;
+}
+
+.honours {
+    text-align: center;
+    border: 1px solid silver;
+    padding: 20px;
+}
+
+.honour-tile {
+    text-align: center;
+}
+
+.honour-tile p {
+    font-weight: bold;
+    margin: 0;
+}
+
+.honour-tile img {
+    max-width: 100%; 
+    height: auto;
+}
